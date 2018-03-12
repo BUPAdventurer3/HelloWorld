@@ -9,8 +9,9 @@ public class Main {
 
         String s;
         s =  in.nextLine();
-
         System.out.println (s);
+
+    System.out.println ("Push & Pull");
 
     }
 }
